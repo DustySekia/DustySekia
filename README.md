@@ -1,5 +1,13 @@
-### Hi there 👋
-
+Hi there 👋
+(Generic intro up ahead)
+- 🔭 I’m currently working on ... creating mods for tML
+- 🌱 I’m currently learning ...C++ and C#
+- 👯 I’m looking to collaborate on ...Nothing really. I work pretty much solo
+- 🤔 I’m looking for help with ...Probably understanding velocity and projectile adjustments
+- 💬 Ask me about ...
+- 📫 How to reach me: ...dont really read any dms or pms
+- 😄 Pronouns: ... He/they
+- ⚡ Fun fact: ... Started 3 years ago but account lost so here's a new one
 <!--
 **DustySekia/DustySekia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
